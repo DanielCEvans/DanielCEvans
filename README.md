@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-- :mortar_board: I'm currently in my final semester of a Masters in Data Analytics at RMIT University
-- 🌱 I have been learning about Python, Machine Learning, Statistics, and Bayesian Statistics
+- 🧑‍💼 I'm currently working as a Data Analyst and Front End Developer at one of Australia's tech unicorns [Employment Hero](https://employmenthero.com/)
+- 📚 I am experienced in Javascript, React, Typescript, CSS, HTML, and SQL
+- 📖 I am currently learning Node.js
+- 📚 I am experienced in Python, Machine Learning, Statistics, and Bayesian Statistics
 - :envelope: Contact me at [danielconnorevans@gmail.com](mailto:danielconnorevans@gmail.com)
 
 
