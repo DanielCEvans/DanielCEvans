@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-- 🧑‍💼 I am currently working as a Data Analyst and Front End Developer at one of Australia's tech unicorns [Employment Hero](https://employmenthero.com/)
-- 📚 I am experienced in Javascript, React, TypeScript, CSS, HTML, and SQL
-- 📖 I am currently learning Node.js
-- 📚 I am experienced in Python, Machine Learning, Statistics, and Bayesian Statistics
+- 🧑‍💼 I am currently working as a Junior Fullstack Software Engineer at Dye and Durham [Dye and Durham](https://dyedurham.com.au/)
+- 📚 Primarily working in a C#/.Net backend, and Angular frontend
+- 📖 Current side project is a Meal Planner which I hope to deploy using .Net Aspire
 - :envelope: Contact me at [danielconnorevans@gmail.com](mailto:danielconnorevans@gmail.com)
 
 
